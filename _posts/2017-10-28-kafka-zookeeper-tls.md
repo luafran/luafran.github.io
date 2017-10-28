@@ -1,5 +1,6 @@
 ---
 title:  "Using TLS Between Kafka and Zookeeper"
+excerpt: "Step by step guide to build Kafka with Zookeeper 3.5 and use TLS between Kafka and Zookeeper"
 categories: 
     - Kafka
 tags:
