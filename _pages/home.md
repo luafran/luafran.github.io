@@ -1,9 +1,9 @@
 ---
 layout: splash
-permalink: /
+permalink: /home
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/rio-san-jose-san-clemente.png
+  overlay_image: /assets/images/rio-2.png
   caption:
 excerpt: 'Software developer interested in DevOps, IOT and Context Aware Computing.'
 ---

@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Luciano Afranllie Ruiz"
 title_separator          : "-"
 name                     : "Luciano Afranllie Ruiz"
-description              : "Software developer interested in DevOps, IOT and Context Aware Computing"
+description              : "My notes"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Luciano Afranllie Ruiz"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "Software developer interested in DevOps, IOT and Context Aware Computing."
   location         : "Córdoba, Argentina"
   email            :
